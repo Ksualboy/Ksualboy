@@ -1,6 +1,4 @@
 # Hi there! 👋
-Looking for a repo? There are some pinned down this section, so keep scrolling 👀
-
 I was once a fearless video editor who hated freelancing but needed to survive,
 ### but now I'm in my way on learning how `properly code`! 💃
 
