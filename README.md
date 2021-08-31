@@ -1,8 +1,8 @@
 # Hi there! 👋
-Are you looking for something like a repo? There are some pinned down this file, so keep scrolling 👀
+Looking for a repo? There are some pinned down this section, so keep scrolling 👀
 
 I was once a fearless video editor who hated freelancing but needed to survive,
-but now I'm in my way on learning how `properly code`! 💃
+### but now I'm in my way on learning how `properly code`! 💃
 
 ![xd2](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47myvjihktn34ddwwoaxcdxu4gor9gmjw3pn31i5o6&rid=giphy.gif&ct=g)
 
