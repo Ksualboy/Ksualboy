@@ -4,7 +4,7 @@
 
 Studied at [Holberton School](https://www.instagram.com/holbertonuy/?hl=en).
 
-- Reach to me through [LinkedIn](https://www.linkedin.com/in/danielmill4n/)
+Reach to me through [LinkedIn](https://www.linkedin.com/in/danielmill4n/)
 
 <!--
 **Ksualboy/Ksualboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
