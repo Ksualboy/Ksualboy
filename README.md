@@ -1,12 +1,10 @@
 # Hi there! 👋
-I was once a fearless video editor who hated freelancing but needed to survive,
-#### but now I'm `coding`! 💃
 
 ![xd2](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e47myvjihktn34ddwwoaxcdxu4gor9gmjw3pn31i5o6&rid=giphy.gif&ct=g)
 
-Studied at [Holberton School](https://www.instagram.com/holbertonuy/?hl=en). Now starting my IT carreer and giving it my best in order to reach my goal.
+Studied at [Holberton School](https://www.instagram.com/holbertonuy/?hl=en).
 
-- Reach to me through [Linked In](https://www.linkedin.com/in/danielmilln/)
+- Reach to me through [LinkedIn](https://www.linkedin.com/in/danielmill4n/)
 
 <!--
 **Ksualboy/Ksualboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
